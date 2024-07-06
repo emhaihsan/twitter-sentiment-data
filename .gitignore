@@ -3,4 +3,6 @@ __pycache__
 
 .env
 .venv
+.neptune
 tes.ipynb
+tes.py
