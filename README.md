@@ -73,10 +73,10 @@ python train.py
 
 ### Results logged in Neptune.ai
 Login to your [neptune](neptune.ai) account then you will see your recent running logged on your project page. You can deep dive into details for every experiment that you configured before.
-![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img1.png)
-![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img2.png)
-![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img3.png)
-![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img4.png)
+![](https://github.com/emhaihsan/twitter-sentiment-train/blob/main/img/img1.png)
+![](https://github.com/emhaihsan/twitter-sentiment-train/blob/main/img/img2.png)
+![](https://github.com/emhaihsan/twitter-sentiment-train/blob/main/img/img3.png)
+![](https://github.com/emhaihsan/twitter-sentiment-train/blob/main/img/img4.png)
 
 ## Additional Reference
 - [Neptune Documentations](https://docs.neptune.ai/)
