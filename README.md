@@ -28,8 +28,8 @@ Model version set on `config.yaml` and tracked with Neptune for comparison and r
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/username/training-repo.git
-cd training-repo
+git clone https://github.com/emhaihsan/twitter-sentiment-train.git
+cd twitter-sentiment-train
 ```
 
 
@@ -70,6 +70,13 @@ Running training script to train model and log into Neptune.
 ```bash
 python train.py
 ```
+
+### Results logged in Neptune.ai
+Login to your [neptune](neptune.ai) account then you will see your recent running logged on your project page. You can deep dive into details for every experiment that you configured before.
+![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img1.png)
+![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img2.png)
+![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img3.png)
+![](https://github.com/emhaihsan/twitter-sentiment-train/tree/main/img/img4.png)
 
 ## Additional Reference
 - [Neptune Documentations](https://docs.neptune.ai/)
